@@ -16,20 +16,20 @@ Install postman
 https://www.postman.com/downloads/
 
 get data_toko list
-<img src='img/get_data_toko.png' alt='data_toko list'/>
+<img src='get_data_toko.png' alt='data_toko list'/>
 
 get recommendations saw
-<img src='img/get_saw.png' alt='recommendations saw'/>
+<img src='get_saw.png' alt='recommendations saw'/>
 
 get recommendations wp
-<img src='img/get_wp.png' alt='recommendations wp'/>
+<img src='get_wp.png' alt='recommendations wp'/>
 
 post recommendations saw
-<img src='img/post_saw.png' alt='recommendations saw'/>
+<img src='post_saw.png' alt='recommendations saw'/>
 
 
 post recommendations wp
-<img src='img/post_wp.png' alt='recommendations wp'/>
+<img src='post_wp.png' alt='recommendations wp'/>
 
 ref:
 https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
